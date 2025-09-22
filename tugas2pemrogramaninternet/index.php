@@ -9,7 +9,7 @@
 </head>
 
 <body class="bg-gray-50 font-sans">
-    <a href="/index.php" class="absolute top-4 left-4 text-white font-semibold text-sm py-2 px-4 rounded-lg bg-gradient-to-r from-blue-400 to-blue-600 hover:from-blue-500 hover:to-blue-700 transition-all duration-300 shadow-md">
+    <a href="/Tugas-Pemrograman-Internet-B/index.php" class="absolute top-4 left-4 text-white font-semibold text-sm py-2 px-4 rounded-lg bg-gradient-to-r from-blue-400 to-blue-600 hover:from-blue-500 hover:to-blue-700 transition-all duration-300 shadow-md">
         &#8592; Kembali
     </a>
 
@@ -62,3 +62,4 @@
 </body>
 
 </html>
+
